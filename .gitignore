@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# If you're using Jupyter Notebook
+.ipynb_checkpoints
+
+# Python virtual environments
+env/
+venv/
+.venv/
+
+# Spyder project settings
+.spyderproject
+
+# PyCharm project settings
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Data files
+*.data
+*.pbtxt
